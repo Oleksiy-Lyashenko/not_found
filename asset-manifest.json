@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/not_found/static/css/main.c76017b1.css",
+    "main.js": "/not_found/static/js/main.7c017cf2.js",
+    "static/js/787.efe23d94.chunk.js": "/not_found/static/js/787.efe23d94.chunk.js",
+    "static/media/Scarecrow.png": "/not_found/static/media/Scarecrow.633430866163f4a7e8f2.png",
+    "index.html": "/not_found/index.html",
+    "main.c76017b1.css.map": "/not_found/static/css/main.c76017b1.css.map",
+    "main.7c017cf2.js.map": "/not_found/static/js/main.7c017cf2.js.map",
+    "787.efe23d94.chunk.js.map": "/not_found/static/js/787.efe23d94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c76017b1.css",
+    "static/js/main.7c017cf2.js"
+  ]
+}
